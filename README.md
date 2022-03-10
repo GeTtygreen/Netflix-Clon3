@@ -1,3 +1,7 @@
+# This is a preview of the Clone Notice that it is running on the localhost:3000 (not yet Deployed)
+
+![Netflix-clone-image](./preview.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
