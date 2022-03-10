@@ -2,6 +2,10 @@
 
 ![Netflix-clone-image](./preview.png)
 
+##The clone also plays trailer video of selected movies ...... though its not a valid video its based form reat-youtube
+
+![Netfilx-trailer-image](./trailerPreview.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
